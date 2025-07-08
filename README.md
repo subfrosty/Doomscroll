@@ -5,17 +5,17 @@ This collection contains curated project ideas and real-world problems that can 
 ## 📁 File Structure
 
 ### Project Categories
-- **Web Development Projects.md** - Frontend, backend, and full-stack web applications
-- **Data & Machine Learning Projects.md** - Data science, ML, and analytics projects
-- **AI & Machine Learning Applications.md** - AI-powered applications, NLP, computer vision, and generative AI
-- **Creative AI Projects.md** - AI for art, entertainment, content creation, and creative automation
-- **Systems & Tools Projects.md** - System programming, CLI tools, and desktop applications
-- **Game Development Projects.md** - 2D/3D games, game engines, and interactive experiences
-- **Algorithm & Problem Solving Projects.md** - Coding challenges, data structures, and algorithmic thinking
-- **Open Source & Advanced Projects.md** - Complex systems, distributed computing, and cutting-edge technologies
+- **[Web Development Projects.md](Web%20Development%20Projects.md)** - Frontend, backend, and full-stack web applications
+- **[Data & Machine Learning Projects.md](Data%20&%20Machine%20Learning%20Projects.md)** - Data science, ML, and analytics projects
+- **[AI & Machine Learning Applications.md](AI%20&%20Machine%20Learning%20Applications.md)** - AI-powered applications, NLP, computer vision, and generative AI
+- **[Creative AI Projects.md](Creative%20AI%20Projects.md)** - AI for art, entertainment, content creation, and creative automation
+- **[Systems & Tools Projects.md](Systems%20&%20Tools%20Projects.md)** - System programming, CLI tools, and desktop applications
+- **[Game Development Projects.md](Game%20Development%20Projects.md)** - 2D/3D games, game engines, and interactive experiences
+- **[Algorithm & Problem Solving Projects.md](Algorithm%20&%20Problem%20Solving%20Projects.md)** - Coding challenges, data structures, and algorithmic thinking
+- **[Open Source & Advanced Projects.md](Open%20Source%20&%20Advanced%20Projects.md)** - Complex systems, distributed computing, and cutting-edge technologies
 
 ### Problem-Solving Focus
-- **Workflow & Automation Problems.md** - Real-world problems that can be automated or optimized
+- **[Workflow & Automation Problems.md](Workflow%20&%20Automation%20Problems.md)** - Real-world problems that can be automated or optimized
 
 ## 🎯 How to Choose a Project
 
