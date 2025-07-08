@@ -13,6 +13,7 @@ This collection contains curated project ideas and real-world problems that can 
 - **[Game Development Projects.md](Game%20Development%20Projects.md)** - 2D/3D games, game engines, and interactive experiences
 - **[Algorithm & Problem Solving Projects.md](Algorithm%20&%20Problem%20Solving%20Projects.md)** - Coding challenges, data structures, and algorithmic thinking
 - **[Open Source & Advanced Projects.md](Open%20Source%20&%20Advanced%20Projects.md)** - Complex systems, distributed computing, and cutting-edge technologies
+- **[OSINT Projects.md](OSINT%20Projects.md)** - Open Source Intelligence gathering and analysis projects
 
 ### Problem-Solving Focus
 - **[Workflow & Automation Problems.md](Workflow%20&%20Automation%20Problems.md)** - Real-world problems that can be automated or optimized
